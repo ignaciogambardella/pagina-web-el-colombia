@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<body background=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTTzR0BWwAqDtr98-D9KAIncnThBKry5mcQ&usqp=CAU> 
-    <p>Bienvenidos a la pagina del colombia</p>
-    <p>Ingrese su usuario o reg&iacute;strese</p>
-    <p><a href=ingresa.html>ya tengo una cuenta</a></p>
-    <p><a href=nuevo usuario.html>Registrarse</a></p>
-</body>
